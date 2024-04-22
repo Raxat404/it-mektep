@@ -92,6 +92,11 @@ input[type=number] {
 	}
 }
 
+.nav-logo{
+    width: 140px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
 .text-typing {
     overflow: hidden;
     white-space: nowrap;
