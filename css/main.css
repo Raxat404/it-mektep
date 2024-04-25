@@ -111,3 +111,9 @@ input[type=number] {
     height: 10%;
     background-image: linear-gradient(to right bottom, #00214c, #171e41, #1f1b36, #211a2d, #201924, #1f1c28, #1e1f2c, #1d222f, #052c3d, #003742, #004137, #034821);
 }
+
+@media screen and (max-width: 768px) {
+    .nav-logo {
+      width: 240px;
+    }
+  }
