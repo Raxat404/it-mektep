@@ -116,4 +116,10 @@ input[type=number] {
     .nav-logo {
       width: 240px;
     }
-  }
+}
+
+@media screen and (max-width:375px) {
+    .nav-logo{
+        width: 180px;
+    }
+}
